@@ -1,0 +1,5 @@
+To run the tests please run the next command:
+
+```bash
+npx playwright test
+```
